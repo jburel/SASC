@@ -4,7 +4,7 @@ channels:
 - defaults
 dependencies:
 # https://github.com/ContinuumIO/anaconda-issues/issues/4656
-- r-base
+- r-base=3.6
 - r-corrr
 - r-ggforce
 - r-gridExtra
